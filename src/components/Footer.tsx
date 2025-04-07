@@ -1,7 +1,6 @@
-
 import React from 'react';
 import { Separator } from "@/components/ui/separator";
-import { Facebook, Twitter, Instagram, Linkedin, GitHub } from 'lucide-react';
+import { Facebook, Twitter, Instagram, Linkedin, Github } from 'lucide-react';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -30,7 +29,7 @@ const Footer = () => {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a href="#" className="hover:text-white transition-colors p-2 bg-gray-800 rounded-full">
-                <GitHub className="h-5 w-5" />
+                <Github className="h-5 w-5" />
               </a>
             </div>
           </div>
