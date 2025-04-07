@@ -12,7 +12,7 @@ const Hero = () => {
             Transforming How Teams Work
           </span>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-8 animate-fade-in">
-            Simplify Your Workflow with <span className="gradient-text">SaaSify</span>
+            Simplify Your Workflow with <span className="gradient-text">SaSSify</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-600 max-w-3xl mb-10 animate-fade-in" style={{ animationDelay: '0.1s' }}>
             The all-in-one platform that helps your team collaborate, manage projects,
