@@ -36,7 +36,7 @@ const ContactForm = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold mb-1">Email Us</h3>
-                  <p className="text-sm text-white/80">support@saasify.com</p>
+                  <p className="text-sm text-white/80">info@sassify.com</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -47,7 +47,7 @@ const ContactForm = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold mb-1">Call Us</h3>
-                  <p className="text-sm text-white/80">+1 (555) 123-4567</p>
+                  <p className="text-sm text-white/80">+254 (796) 676-253</p>
                 </div>
               </div>
             </div>
